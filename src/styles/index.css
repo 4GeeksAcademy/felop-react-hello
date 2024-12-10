@@ -10,3 +10,14 @@
     import 'relative/path/to/stylesheet.scss';
 
 */
+.navbar {
+    width: 100%; 
+  }
+  
+  .navbar-brand {
+    margin-right: auto; 
+  }
+  
+  .navbar-nav {
+    margin-left: auto; 
+  }
